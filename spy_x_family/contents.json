@@ -191,6 +191,164 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "8",
+      "name": "Pack 8",
+      "publisher": "",
+      "tray_image_file": "tray_405977175.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "490609481.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "648083665.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1512571012.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1527277225.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1032529594.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "876973546.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1529978183.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "104798137.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "2058440982.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1088430793.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "503235998.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1745675411.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1669855301.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "441545718.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "836383453.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "496161471.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "225553420.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "74454471.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1475239470.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1929634418.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "205408029.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1558511237.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1588128649.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "341461519.webp",
+          "emojis": [
+            "😍"
+          ]
+        }
+      ]
     }
   ]
 }
