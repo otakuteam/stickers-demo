@@ -75,7 +75,122 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "4",
+      "name": "Pack 4",
+      "publisher": "Felix Devteam",
+      "tray_image_file": "tray_1036314953.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "felix.dev.892@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1116779995.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "486642475.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "676482999.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "912247459.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "786495558.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1785852459.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "252102588.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1427440814.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1692512096.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "961934398.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "902949692.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "846222740.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1469103909.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "899750101.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1306546617.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "2059511771.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "1744358223.webp",
+          "emojis": [
+            "😍"
+          ]
+        }
+      ]
     }
-    
   ]
 }
